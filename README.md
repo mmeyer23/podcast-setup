@@ -34,6 +34,7 @@ From real-world war stories to tactical frameworks, this show is about helping e
 - Weekly Newsletter
 
 
+
   
 
 > *Build beyond the backlog. Think like a product. Engineer with impact.*
