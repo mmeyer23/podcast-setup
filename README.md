@@ -1,19 +1,38 @@
-# The Future in Tech
+# The Product-Focused Engineer
 
-<img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
+The Product-Focused Engineer is a weekly podcast series hosted by Mason Meyer, focused on the intersection of engineering and product thinking — where technical craft meets real user impact.
 
-The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
+You can listen every Thursday at 2pm ET / 11am PT on your favorite podcast platform or watch full episodes on YouTube (coming soon).
 
-You can [watch it on LinkedIn](https://go.raybo.org/tfit-episodes) every Thursday at 2pm ET, 11am PT. The goal of this series is to spark conversations, provide practical tips and resources to help developers work, learn, and tackle challenges related to working in the technology industry.
-
-We're talking about Generative AI tools like ChatGPT, Dall-E*2, Hugging Face by talking to some of the leaders delivering the tools, strategies and technologies that make working in technology exciting. We'll discuss how they broke into technology, business strategies, ethical concerns and technical skills.
-
-You have a chance to hear from people who are not just talking about, but building the next generation tools like Open AI and leaders who've worked for and with Fortune 500 companies like Microsoft, Google, LinkedIn,  IBM,  Open AI and more.
+This series is designed to help engineers, PMs, tech leads, and builders of all kinds sharpen their understanding of how great software gets built — not just by writing code, but by solving real problems. Whether you’re a junior developer or an engineering leader, you’ll get insights on how to think more like a product owner while staying grounded in technical excellence.
 
 ---
-## More Info
-- [The Future in Tech Page](https://go.raybo.org/tfit)
-- [Episode Guide](https://go.raybo.org/tfit-episodes)
-- [YouTube Playlist](https://go.raybo.org/tfit-youtube)
-- [Podcast Feed - Audio Only](https://go.raybo.org/tfit-feed-audio)
-- [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
+
+## 🎙️ What We Talk About
+
+We dive deep into:
+
+- Product-minded engineering practices
+- Aligning engineering work with business goals
+- Real-world stories of product development at scale
+- Emerging tools, workflows, and team strategies
+- Navigating tradeoffs, cross-functional collaboration, and impact-driven thinking
+- Career growth through product-focused soft skills
+  
+Our guests include engineers, product leaders, and startup founders who have built and scaled products at companies like Spotify, Stripe, Airbnb, Google, and early-stage startups.
+
+From real-world war stories to tactical frameworks, this show is about helping engineers think beyond the ticket — and build with purpose.
+
+---
+
+## 🔗 More Info (coming soon)
+
+- The Product-Focused Engineer Homepage
+- Episode Guide
+- YouTube Playlist
+- Podcast Feed – Audio Only
+- Weekly Newsletter
+
+  
+
+> *Build beyond the backlog. Think like a product. Engineer with impact.*
